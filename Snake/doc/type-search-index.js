@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Logika","l":"Apple"},{"p":"Logika","l":"BodyPart"},{"p":"Konzola","l":"Console"},{"p":"Konzola","l":"ConsoleGame"},{"p":"GUI","l":"Frame"},{"p":"GUI","l":"Game"},{"p":"Logika","l":"Snake"}]
